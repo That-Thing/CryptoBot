@@ -50,10 +50,6 @@ class prices:
 
 
 
-#nomics shit
-#api key: a51b49815a3f42732b6fbfd7dbcb6139
-
-
 
 def setup(bot):
     bot.add_cog(prices(bot))
